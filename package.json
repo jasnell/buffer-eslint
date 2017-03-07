@@ -2,6 +2,7 @@
   "name": "buffer-eslint",
   "version": "1.0.0",
   "description": "eslint rule for Buffer constructor deprecation",
+  "keywords": ["eslint", "eslintplugin"],
   "main": "index.js",
   "repository": "https://github.com/jasnell/buffer-eslint",
   "author": "James M Snell <jasnell@gmail.com>",
