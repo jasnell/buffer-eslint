@@ -1,0 +1,16 @@
+{
+  "name": "buffer-eslint",
+  "version": "1.0.0",
+  "description": "eslint rule for Buffer constructor deprecation",
+  "main": "index.js",
+  "repository": "https://github.com/jasnell/buffer-eslint",
+  "author": "James M Snell <jasnell@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/jasnell/buffer-eslint#readme",
+  "devDependencies": {
+    "eslint": "^3.17.1"
+  },
+  "scripts": {
+    "test": "node test/test"
+  }
+}
